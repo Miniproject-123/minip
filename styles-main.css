@@ -1,0 +1,125 @@
+div.top-container {
+  position: relative;
+  padding-top: 20px;
+  position: relative;
+    border-style: none none solid none;
+    border-width: 3px;
+    margin: 15px 200px 20px 200px;
+}
+h1 {
+  margin: 0px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #ECF0F1;
+}
+.my-intro {
+  font-family: cursive;
+  font-size: 50px;
+  color: #503BFF;
+  border-style: solid none solid none;
+    border-width: 3px;
+}
+.my-intro1{
+  font-family: cursive;
+  font-size: 70px;
+  color: #503BFF;
+}
+.two{
+  margin: 15px 200px 20px 200px;
+  font-family: "rubik";
+  color: #6B76FF;
+  border-style: none none solid none;
+  border-width: 3px;
+}
+.three{
+  margin: 100px 200px 50px 200px;
+  font-family: "rubik";
+  color: #FF62A5;
+  border-style: none none solid none;
+  border-width: 3px;
+
+}
+
+
+.info {
+  font-family: "Rubik", sans-serif;
+  font-size: 2.5rem;
+  color: #295BA7;
+}
+.brain {
+  width: 20rem;
+  height: 20rem;
+  margin: 50px auto;
+}
+.doctor {
+  width: 20rem;
+  height: 20rem;
+  margin: 50px auto;
+}
+.para1 {
+  margin: 50px auto;
+  font-size: 3rem;
+  width: 50pc;
+  font-family: "Rubik", sans-serif;
+  color:#FC5185;
+}
+.para2 {
+  margin: 50px auto;
+  font-size: 1.5rem;
+  width: 50pc;
+}
+.one{
+  margin: 150px auto 100px auto;
+border-style: solid none solid none;
+    border-width: 3px;
+}
+
+.list{
+  font-size: 2rem;
+  margin:20px auto;
+}
+.list-up{
+ 
+  font-size: 3.5rem;
+}
+.link{
+  font-family: cursive;
+}
+
+img{
+
+  height: 200px;
+  width: 200px;
+
+}
+
+.help{
+  margin:100px auto;
+}
+
+.artical{
+  margin: 50px auto;
+  font-size: 30px;
+  width: 50pc;
+  font-family: "Rubik", sans-serif;
+  color:#12296c;
+}
+
+.form{
+  background-color:#FFE194;
+  margin: 10px 0px 0px 0px ;
+  padding: 20px 0px 10px 0px;
+  font-size: 25px;
+  
+}
+
+.emailadd{
+  font-family: "Rubik";
+  color: #185ADB;
+  text-align: center;
+  font-size: 24px;
+  line-height:120%; 
+  margin: 25px 200px 10px 200px;
+}
